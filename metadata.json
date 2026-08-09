@@ -1,0 +1,6 @@
+{
+  "name": "SaveLife Hospital",
+  "description": "A modern hospital web application for SaveLife Hospital with department listings, doctor profiles, and online appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
